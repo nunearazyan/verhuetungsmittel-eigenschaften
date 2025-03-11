@@ -1,0 +1,25 @@
+label,description,data_type
+Stammt aus der Quelle,"Quelle, aus der die Information zu den Verhütungsmitteln entstammt",url
+Insanz von,Verknüpfung von Instanzen mit Oberklassen,wikibase-item
+benutzt von Geschlecht,"Geschlechter, die theoretisch das jeweilige Verhütungsmittel benutzen können",wikibase-item
+gehört zur Art der Verhütungsmittel,Übergeordnete Art der Verhütungsmittel,wikibase-item
+besteht aus,"Materialien, aus denen das Verhütungsmittel besteht",wikibase-item
+Erfordert in Deutschland Rezept- / Überweisungspflicht,"gibt an, ob das Erwerb des Verhütungsmittels in Deutschland ein Rezept oder eine Überweisung erfordert",string
+hat Fehlerquote bei typischer Anwendung,"Typische Anwendung bedeutet, dass das Verhütungsmittel unter Alltagsbedingungen verwendet wurde",math
+hat Fehlerquote bei perfekter Anwendung,"Perfekte Anwendung bedeutet, dass das Verhütungsmittel ideal korrekt angewendet wurde",math
+hat Effizienz,Wirksamkeit eines Verhütungsmittels,math
+hat Pearl-Index,Pearl-Index drückt die Sicherheit eines Verhütungsmittels aus,math
+Häufigkeit der Einnahme / Applikation,"Gibt an, wie häufig das Verhütungsmittel eingenommen oder ausgetauscht werden soll",wikibase-item
+schützt von,"Hier wird angegeben, ob die Verhütungsmethode von Schwangerschaft oder STI schützt",wikibase-item
+Bild,Visuelle Darstellung des Verhütungsmittels,commonsMedia
+hat Weiterführende Informationen der pro familia,Informationen aus den Quellen der pro familia,url
+hat Autor / Autorin / mehrere Autoren und Autorinnen,"ein Autor, eine Autorin oder mehrere Autoren",string
+erschien in Zeitschrift / Sammelband,"spezifiziert, in welcher Zeitschrift oder in welchem Sammelband die Publikation zu finden ist",string
+Zusatzangabe Zeitschrift / Sammelband,"hier werden zusätzliche Informationen wie etwa Heft, Band, Reihe, Seiten",string
+hat Jahr,Erscheinungsjahr,time
+hat DOI,DOI der Publikation,string
+hat Keywords,Keywords bzw. Schlüsselwörter der Publikation,string
+ist assoziiert mit,"verlinkt auf das Verhütungsmittel, das die Publikation behandelt",wikibase-item
+behandelt das Thema,"verlinkt auf eine thematisch passende Oberklasse, die die Publikation behandelt",wikibase-item
+ausführlicher s. Publikation,"Source-Property für die Angabe der Quelle zu Aussagen bezüglich der Verhütungsmitteln",wikibase-item
+Oberklasse enthält,Verknüpfung von Oberklassen mit Instanzen,wikibase-item
